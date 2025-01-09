@@ -26,8 +26,11 @@ principles of computer science.
 ### Feel free to explore my projects and learn more about my journey in computer science! 💗
 
 **p5.js Game Project:** https://github.com/tanvi150/Game-Project?tab=readme-ov-file#game-project
+
 **SIM-UOL'24 Hackathon project:** https://github.com/tanvi150/SIM-UOL-Hackathon-24-Portfolio#sim-uol-hackathon-24-portfolio
+
 **p5.js Class Assignments:** https://github.com/tanvi150/p5.js--Hacking-and-Debugging-Activities#p5js--hacking-and-debugging-exercises
+
 **Sleuth Cases Solving:** https://github.com/tanvi150/Sleuth-Cases-Practice-Assignments/blob/main/README.md#sleuth-cases-practice-assignments
 <!---
 tanvi150/tanvi150 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
