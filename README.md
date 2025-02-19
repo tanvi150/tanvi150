@@ -31,7 +31,7 @@ principles of computer science.
 
 **Class Assignments:** https://github.com/tanvi150/p5.js--Hacking-and-Debugging-Activities
 
-**Sleuth Cases:** https://github.com/tanvi150/Sleuth-Cases-Practice-Assignments/blob/main/README.md#sleuth-cases-practice-assignments
+**Sleuth Cases:** https://github.com/tanvi150/Sleuth-Cases-Practice-Assignments/tree/main
 <!---
 tanvi150/tanvi150 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
