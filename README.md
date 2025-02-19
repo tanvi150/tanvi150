@@ -27,7 +27,7 @@ principles of computer science.
 
 **p5.js Game Project:** https://github.com/tanvi150/Game-Project?tab=readme-ov-file#game-project
 
-**Hackathon Project:** https://github.com/tanvi150/SIM-UOL-Hackathon-24-Portfolio#sim-uol-hackathon-24-portfolio
+**Hackathon Project:** https://github.com/tanvi150/Hackathon-24-Portfolio
 
 **p5.js Class Assignments:** https://github.com/tanvi150/p5.js--Hacking-and-Debugging-Activities#p5js--hacking-and-debugging-exercises
 
