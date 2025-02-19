@@ -1,7 +1,7 @@
 ## Hello there! I'm Tanvi Krishna Mayi. Welcome to my GitHub Profile! 👋
 
 I'm a Computer Science student with a strong interest in technology and problem-solving. While I'm starting my journey in programming and computer science,
-I'm eager to explore **cybersecurity** in the future. For now, I'm focused on building a strong foundation in coding, algorithms and understanding the core 
+I'm eager to explore **cybersecurity** in the future. For now, I'm focused on building a strong foundation in coding, and algorithms and understanding the core 
 principles of computer science.
 
 ## 🚀 Skills & Technologies I'm Learning:
@@ -29,7 +29,7 @@ principles of computer science.
 
 **2024 Hackathon Project:** https://github.com/tanvi150/Hackathon-24-Portfolio
 
-**Class Assignments:** https://github.com/tanvi150/p5.js--Hacking-and-Debugging-Activities#p5js--hacking-and-debugging-exercises
+**Class Assignments:** https://github.com/tanvi150/p5.js--Hacking-and-Debugging-Activities
 
 **Sleuth Cases:** https://github.com/tanvi150/Sleuth-Cases-Practice-Assignments/blob/main/README.md#sleuth-cases-practice-assignments
 <!---
