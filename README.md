@@ -5,7 +5,7 @@ I'm eager to explore **cybersecurity** in the future. For now, I'm focused on bu
 principles of computer science.
 
 ## 🚀 Skills & Technologies I'm Learning:
-- **Programming Languages**: C Language, Javascript
+- **Programming Languages**: C Language, Javascript (Currently learning: Python, HTML & CSS)
 - **Tools**: GitHub, Visual Studio Code
 - **Other Interests**: Cybersecurity (future exploration)
 
