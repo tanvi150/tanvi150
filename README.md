@@ -34,6 +34,8 @@ principles of computer science.
 **Sleuth Cases:** https://github.com/tanvi150/Sleuth-Cases-Practice-Assignments/tree/main
 
 **Mother's Day Poetry Generator (Personal Project):** https://github.com/tanvi150/Poetry-Generator
+
+**CS Girlies AI vs HI Hackathon:** https://github.com/tanvi150/CS-Girlies-Hackathon-Submission---July-2025
 <!---
 tanvi150/tanvi150 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
