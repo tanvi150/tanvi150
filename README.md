@@ -6,7 +6,7 @@ principles of computer science.
 
 ## 🚀 Skills & Technologies I'm Learning:
 - **Programming Languages**: C Language, Javascript (Currently learning: Python, HTML & CSS)
-- **Tools**: GitHub, Visual Studio Code
+- **Tools**: GitHub, Visual Studio Code, Jupyter Notebook
 - **Other Interests**: Cybersecurity (future exploration)
 
 ## 🏆 Certifications:
