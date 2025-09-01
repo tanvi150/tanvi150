@@ -5,9 +5,9 @@ I'm eager to explore **cybersecurity** in the future. For now, I'm focused on bu
 principles of computer science.
 
 ## 🚀 Skills & Technologies I'm Learning:
-- **Programming Languages**: C Language, Javascript (Currently learning: Python, HTML & CSS)
-- **Tools**: GitHub, Visual Studio Code, Jupyter Notebook, Node.js
-- **Other Interests**: Cybersecurity (future exploration)
+- **Programming Languages**: HTML, CSS, and JavaScript (Currently learning: Python, C Language)
+- **Tools**: GitHub, Visual Studio Code, Node.js
+- **Design Tools**: Figma and Canva
 
 ## 🏆 Certifications:
 - CS Girlies Hackathon (2025) 
@@ -20,9 +20,7 @@ principles of computer science.
 - Virtual Reality Course (2020)
 - Young Engineer Award **Bronze** by Singapore Polytechnic (2019)
 
-## 📚🎵 Fun Facts:
-- I love writing poetry <3
-- I'm an avid fan of music! I can play the trumpet!
+## 🗃️ Projects:
 
 ### Feel free to explore my projects and learn more about my journey in computer science! 💗
 
