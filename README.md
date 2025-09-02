@@ -30,11 +30,13 @@ principles of computer science.
 
 **Class Assignments:** https://github.com/tanvi150/p5.js--Hacking-and-Debugging-Activities
 
-**Sleuth Cases:** https://github.com/tanvi150/Sleuth-Cases-Practice-Assignments/tree/main
+**Sleuth Cases:** https://github.com/tanvi150/Sleuth-Cases-Practice-Assignments
 
 **Mother's Day Poetry Generator (Personal Project):** https://github.com/tanvi150/Poetry-Generator
 
 **CS Girlies AI vs HI Hackathon:** https://github.com/tanvi150/CS-Girlies-Hackathon-Submission---July-2025
+
+**NetSG Website (with wireframes & prototypes)**: https://github.com/tanvi150/NetSG
 <!---
 tanvi150/tanvi150 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
