@@ -5,8 +5,8 @@ I'm eager to explore **cybersecurity** in the future. For now, I'm focused on bu
 principles of computer science.
 
 ## 🚀 Skills & Technologies I'm Learning:
-- **Programming Languages**: HTML, CSS, and JavaScript (Currently learning: Python, C Language)
-- **Tools**: GitHub, Visual Studio Code, Node.js
+- **Programming Languages**: HTML, CSS, JavaScript, Python (Currently learning: C++ & SQL)
+- **Tools**: GitHub, Visual Studio, Visual Studio Code, Node.js, Jupyter Notebook
 - **Design Tools**: Figma and Canva
 
 ## 🏆 Certifications:
