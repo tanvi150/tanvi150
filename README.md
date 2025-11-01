@@ -37,6 +37,8 @@ principles of computer science.
 **CS Girlies AI vs HI Hackathon:** https://github.com/tanvi150/CS-Girlies-Hackathon-Submission---July-2025
 
 **NetSG Website (with wireframes & prototypes)**: https://github.com/tanvi150/NetSG
+
+**Google Chrome Built-In AI Challenge 2025**: https://github.com/tanvi150/Google-Chrome-Built-In-AI-Challenge-2025
 <!---
 tanvi150/tanvi150 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
