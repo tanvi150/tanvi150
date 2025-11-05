@@ -10,7 +10,7 @@ principles of computer science.
 - **Design Tools**: Figma and Canva
 
 ## 🏆 Certifications:
-- CS Girlies Hackathon (2025) 
+- CS Girlies AI vS HI Hackathon (2025) 
 - SIM-UOL Hackathon (2024)
 - Fundamentals of Cybersecurity and Applications by Temasek Polytechnic (2024)
 - AWS Academy Graduate - AWS Academy Cloud Foundations (2024)
