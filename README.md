@@ -38,6 +38,8 @@ principles of computer science.
 
 **NetSG Website (with wireframes & prototypes)**: https://github.com/tanvi150/NetSG
 
+**Leetcode Problems**: https://github.com/tanvi150/Leetcode
+
 **Google Chrome Built-In AI Challenge 2025**: https://github.com/tanvi150/Google-Chrome-Built-In-AI-Challenge-2025
 <!---
 tanvi150/tanvi150 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
