@@ -1,7 +1,7 @@
 ## Hello there! I'm Tanvi Krishna Mayi. Welcome to my GitHub Profile! 👋
 
 I'm a Computer Science student with a strong interest in technology, creativity and problem-solving. While I'm starting my journey in programming and computer science,
-I'm eager to explore **cybersecurity** in the future. For now, I'm focused on building a strong foundation in coding, and algorithms and understanding the core 
+I'm eager to explore **cybersecurity** and **data analytics** in the future. For now, I'm focused on building a strong foundation in coding, and algorithms and understanding the core 
 principles of computer science.
 
 ## 🚀 Skills & Technologies I'm Learning:
