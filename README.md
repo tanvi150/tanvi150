@@ -36,6 +36,8 @@ principles of computer science.
 
 **CS Girlies AI vs HI Hackathon:** https://github.com/tanvi150/CS-Girlies-Hackathon-Submission---July-2025
 
+**Data Visualisation App:** https://github.com/tanvi150/Data-Visualisation-App
+
 **NetSG Website (with wireframes & prototypes)**: https://github.com/tanvi150/NetSG
 
 **Leetcode Problems**: https://github.com/tanvi150/Leetcode
