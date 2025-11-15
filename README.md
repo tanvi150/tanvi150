@@ -45,6 +45,8 @@ principles of computer science.
 **Leetcode Problems**: https://github.com/tanvi150/Leetcode
 
 **Google Chrome Built-In AI Challenge 2025**: https://github.com/tanvi150/Google-Chrome-Built-In-AI-Challenge-2025
+
+**CS Girlies Hackathon - Make Learning Cool Again!**: https://github.com/tanvi150/CS-Girlies-Hackathon---Make-Learning-Cool-Again
 <!---
 tanvi150/tanvi150 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
