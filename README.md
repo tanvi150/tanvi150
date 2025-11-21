@@ -10,6 +10,7 @@ principles of computer science.
 - **Design Tools**: Figma, Canva, Jitter
 
 ## 🏆 Certifications:
+- CS Girlies Winter Hackathon (2025)
 - IBM Data Fundamentals (2025)
 - IBM Getting Started with Data (2025)
 - CS Girlies AI vs HI Hackathon (2025) 
