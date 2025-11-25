@@ -31,7 +31,7 @@ principles of computer science.
 
 **2024 Hackathon Project:** https://github.com/tanvi150/Hackathon-24-Portfolio
 
-**Class Assignments:** https://github.com/tanvi150/p5.js--Hacking-and-Debugging-Activities
+**Intro to Programming 1 Mod:** https://github.com/tanvi150/p5.js--Hacking-and-Debugging-Activities
 
 **Sleuth Cases:** https://github.com/tanvi150/Sleuth-Cases-Practice-Assignments
 
@@ -48,6 +48,8 @@ principles of computer science.
 **Google Chrome Built-In AI Challenge 2025**: https://github.com/tanvi150/Google-Chrome-Built-In-AI-Challenge-2025
 
 **CS Girlies Hackathon - Make Learning Cool Again!**: https://github.com/tanvi150/CS-Girlies-Hackathon---Make-Learning-Cool-Again
+
+**Graphics Programming Mod**: https://github.com/tanvi150/Graphics-Programming
 <!---
 tanvi150/tanvi150 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
