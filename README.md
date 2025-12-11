@@ -50,6 +50,8 @@ principles of computer science.
 **CS Girlies Hackathon - Make Learning Cool Again!**: https://github.com/tanvi150/CS-Girlies-Hackathon---Make-Learning-Cool-Again
 
 **Graphics Programming Mod**: https://github.com/tanvi150/Graphics-Programming
+
+**Job Market Insights Dashboard**: https://github.com/tanvi150/Job-Market-Insights-Dashboard
 <!---
 tanvi150/tanvi150 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
