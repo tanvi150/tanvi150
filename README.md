@@ -47,6 +47,8 @@ principles of computer science.
 
 **Google Chrome Built-In AI Challenge 2025**: https://github.com/tanvi150/Google-Chrome-Built-In-AI-Challenge-2025
 
+**Crypto Trading Platform Using C++**: https://github.com/tanvi150/Crypto-Trading-Platform
+
 **CS Girlies Hackathon - Make Learning Cool Again!**: https://github.com/tanvi150/CS-Girlies-Hackathon---Make-Learning-Cool-Again
 
 **Graphics Programming Mod**: https://github.com/tanvi150/Graphics-Programming
