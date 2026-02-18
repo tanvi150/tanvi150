@@ -47,13 +47,13 @@ principles of computer science.
 
 **Google Chrome Built-In AI Challenge 2025**: https://github.com/tanvi150/Google-Chrome-Built-In-AI-Challenge-2025
 
-**Crypto Trading Platform Using C++**: https://github.com/tanvi150/Crypto-Trading-Platform
-
 **CS Girlies Hackathon - Make Learning Cool Again!**: https://github.com/tanvi150/CS-Girlies-Hackathon---Make-Learning-Cool-Again
 
 **Graphics Programming Mod**: https://github.com/tanvi150/Graphics-Programming
 
 **Job Market Insights Dashboard**: https://github.com/tanvi150/Job-Market-Insights-Dashboard
+
+**Crypto Trading Platform Using C++**: https://github.com/tanvi150/Crypto-Trading-Platform
 <!---
 tanvi150/tanvi150 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
