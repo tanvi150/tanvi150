@@ -6,7 +6,8 @@ principles of computer science.
 
 ## 🚀 Skills & Technologies I'm Learning:
 - **Programming Languages**: HTML, CSS, JavaScript, Python (Currently learning: C++ & SQL)
-- **Tools**: GitHub, Visual Studio, Visual Studio Code, Node.js, Jupyter Notebook, Google Colab, Tableau
+- **Tools**: GitHub, Visual Studio, Visual Studio Code, Node.js, Jupyter Notebook, Google Colab
+- **Dashboarding Tools**: Tableau
 - **Design Tools**: Figma, Canva, Jitter
 
 ## 🏆 Certifications:
