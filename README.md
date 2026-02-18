@@ -5,7 +5,7 @@ I'm eager to explore **cybersecurity** and **data analytics** in the future. For
 principles of computer science.
 
 ## 🚀 Skills & Technologies I'm Learning:
-- **Programming Languages**: HTML, CSS, JavaScript, Python (Currently learning: C++ & SQL)
+- **Programming Languages**: HTML, CSS, JavaScript, Python, SQL (Currently learning: C++)
 - **Tools**: GitHub, Visual Studio, Visual Studio Code, Node.js, Jupyter Notebook, Google Colab
 - **Dashboarding Tools**: Tableau
 - **Design Tools**: Figma, Canva, Jitter
