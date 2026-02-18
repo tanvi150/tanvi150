@@ -10,6 +10,9 @@ principles of computer science.
 - **Dashboarding Tools**: Tableau
 - **Design Tools**: Figma, Canva, Jitter
 
+  <!--LANGUAGE-BAR-START-->
+  <!--LANGUAGE-BAR-END-->
+
 ## 🏆 Certifications:
 - CS Girlies Winter Hackathon (2025)
 - IBM Data Fundamentals (2025)
