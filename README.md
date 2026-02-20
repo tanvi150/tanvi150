@@ -10,13 +10,8 @@ principles of computer science.
 - **Dashboarding Tools**: Tableau
 - **Design Tools**: Figma, Canva, Jitter
 
-<!--LANGUAGE-BAR-START-->
-  <div style="display:flex;width:100%;height:20px;border-radius:5px;overflow:hidden;border:1px solid #ccc;">
-     <div title="Python: 70.0%" style="width:70.00%;background-color:#4caf50;"></div>
-     <div title="JavaScript: 20.0%" style="width:20.00%;background-color:#F1E05A;"></div>
-     <div title="HTML: 10.0%" style="width:10.00%;background-color:#E34C26;"></div>
-  </div>
-<!--LANGUAGE-BAR-END-->
+<!--LANGUAGE-BAR-PLOT-->
+  <img width="789" height="390" alt="image" src="https://github.com/user-attachments/assets/3d48b57e-d5c0-4d02-81ac-4198d5ab6849" />
 
 ## 🏆 Certifications:
 - CS Girlies Winter Hackathon (2025)
