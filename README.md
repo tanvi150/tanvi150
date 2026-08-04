@@ -60,6 +60,8 @@ principles of computer science.
 **Job Market Insights Dashboard**: https://github.com/tanvi150/Job-Market-Insights-Dashboard
 
 **Crypto Trading Platform Using C++**: https://github.com/tanvi150/Crypto-Trading-Platform
+
+**DJ Application Using C++**: https://github.com/tanvi150/DJ-Application
 <!---
 tanvi150/tanvi150 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
