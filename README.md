@@ -5,13 +5,11 @@ I'm eager to explore **data analytics** in the future. For now, I'm focused on b
 principles of computer science.
 
 ## 🚀 Skills & Technologies I'm Learning:
-- **Programming Languages**: HTML, CSS, JavaScript, Python, SQL (Currently learning: C++)
-- **Tools**: GitHub, Visual Studio, Visual Studio Code, Node.js, Jupyter Notebook, Google Colab
-- **Dashboarding Tools**: Tableau
+- **Programming Languages**: HTML, CSS, JavaScript, Python, SQL, C++
+- **Backend Web Stack**: Node.js, Express.js, EJS, JSON, SQLite
+- **Tools**: GitHub, Visual Studio, Visual Studio Code, Jupyter Notebook, Google Colab
+- **Dashboarding Tools**: Tableau, Google Looker Studio
 - **Design Tools**: Figma, Canva, Jitter
-
-<!--LANGUAGE-BAR-PLOT-->
-  <img width="789" height="390" alt="image" src="https://github.com/user-attachments/assets/3d48b57e-d5c0-4d02-81ac-4198d5ab6849" />
 
 ## 🏆 Certifications:
 - CS Girlies Winter Hackathon (2025)
