@@ -55,6 +55,8 @@ principles of computer science.
 
 **Snooker Table**: https://github.com/tanvi150/Snooker-Table
 
+**Image Processing Application**: https://github.com/tanvi150/Image-Processing-Application
+
 **Job Market Insights Dashboard**: https://github.com/tanvi150/Job-Market-Insights-Dashboard
 
 **Crypto Trading Platform Using C++**: https://github.com/tanvi150/Crypto-Trading-Platform
