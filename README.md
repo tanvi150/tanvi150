@@ -53,6 +53,8 @@ principles of computer science.
 
 **Graphics Programming Mod**: https://github.com/tanvi150/Graphics-Programming
 
+**Snooker Table**: https://github.com/tanvi150/Snooker-Table
+
 **Job Market Insights Dashboard**: https://github.com/tanvi150/Job-Market-Insights-Dashboard
 
 **Crypto Trading Platform Using C++**: https://github.com/tanvi150/Crypto-Trading-Platform
