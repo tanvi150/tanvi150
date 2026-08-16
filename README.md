@@ -63,7 +63,7 @@ principles of computer science.
 
 **DJ Application Using C++**: https://github.com/tanvi150/DJ-Application
 
-**CS Girlies Hackathon 2026**: https://github.com/tanvi150/CS-Girlies-Hackathon-2026
+**CS Girlies Hackathon 2026 - Technology for Wellness**: https://github.com/tanvi150/CS-Girlies-Hackathon-2026
 <!---
 tanvi150/tanvi150 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
