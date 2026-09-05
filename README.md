@@ -12,7 +12,7 @@ principles of computer science.
 - **Design Tools**: Figma, Canva, Jitter
 
 ## 🏆 Certifications:
-- CS Girlies - Technology for Wellness (**Winner: Best in Happiness Track**) - Hackathon (2026)
+- CS Girlies - Technology for Wellness (**Winner**) - Hackathon (2026)
 - CS Girlies - Make Learning Cool Again! - Hackathon (2025)
 - IBM Data Fundamentals (2025)
 - IBM Getting Started with Data (2025)
