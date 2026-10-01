@@ -168,9 +168,6 @@ Hi, I'm Tanvi Krishna Mayi! 👋💗<br>I'm a Computer Science student who's sti
 **Financial Intelligence Dashboard - Fintrack**: https://tryfintrack.netlify.app/
 
 **The Culinary Archive - Saffron & Sage**: https://saffron-and-sage.onrender.com/
-
-## 💻 Tech Stats:
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=tanvi150&theme=merko=false&include_all_commits=false&count_private=false&layout=compact)
 <!---
 tanvi150/tanvi150 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
