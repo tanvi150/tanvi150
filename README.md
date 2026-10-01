@@ -22,7 +22,8 @@ Hi, I'm Tanvi Krishna Mayi! 👋💗<br>I'm a Computer Science student who's sti
 
 ### Feel free to explore my projects and learn more about my journey in computer science! 💗
 
-![**Game Project:**]( https://github.com/tanvi150/Game-Project)
+![**Game Project:**](<img width="766" height="429" alt="image" src="https://github.com/user-attachments/assets/04924833-0a14-42d2-958c-8b6bca7c43d3" />
+)(https://github.com/tanvi150/Game-Project)
 
 **2024 Hackathon Project:** https://github.com/tanvi150/Hackathon-24-Portfolio
 
@@ -67,10 +68,7 @@ Hi, I'm Tanvi Krishna Mayi! 👋💗<br>I'm a Computer Science student who's sti
 **The Culinary Archive - Saffron & Sage**: https://saffron-and-sage.onrender.com/
 
 ## 💻 Tech Stats:
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=tanvi150&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=tanvi150&theme=merko=false&include_all_commits=false&count_private=false&layout=compact)
 <!---
 tanvi150/tanvi150 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
