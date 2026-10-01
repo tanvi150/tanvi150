@@ -20,106 +20,101 @@ Hi, I'm Tanvi Krishna Mayi! 👋💗<br>I'm a Computer Science student who's sti
 
 ## 🗃️ Projects I Developed:
 
-<table> <tr> <td width="33%" align="center"> <a href="https://github.com/tanvi150/Game-Project"> <img src="https://github.com/user-attachments/assets/04924833-0a14-42d2-958c-8b6bca7c43d3" width="100%" alt="Game Project"> <h3>🎮 Game Project</h3> </a> <p>Game development project exploring interactive gameplay and programming.</p> </td>
+<table> <tr> <td width="33%" align="center"> <a href="https://github.com/tanvi150/Game-Project"> <img src="https://github.com/user-attachments/assets/04924833-0a14-42d2-958c-8b6bca7c43d3" width="100%" alt="Game Project"> <h3>🎮 Game Project</h3> </a> </td>
+  
 <td width="33%" align="center">
-  <a href="https://github.com/tanvi150/CS-Girlies-Hackathon-2026">
-    <img src="YOUR_IMAGE_URL" width="100%" alt="CS Girlies Hackathon 2026">
-    <h3>🏆 Technology for Wellness</h3>
+  <a href="https://github.com/tanvi150/Hackathon-24-Portfolio">
+    <img src="https://github.com/user-attachments/assets/f4cbddc6-3db6-4b6d-ba12-a3ead7419e25" />
+" width="100%" alt="2024 Hackathon Project">
+    <h3>💡2024 Hackathon Project</h3>
   </a>
-  <p>CS Girlies Hackathon 2026 — Winner of the Happiness Track.</p>
 </td>
 
 <td width="33%" align="center">
-  <a href="https://github.com/tanvi150/Google-Chrome-Built-In-AI-Challenge-2025">
-    <img src="YOUR_IMAGE_URL" width="100%" alt="Google Chrome Built-In AI Challenge 2025">
-    <h3>🌐 Chrome Built-In AI</h3>
+  <a href="https://github.com/tanvi150/p5.js--Hacking-and-Debugging-Activities">
+    <img src="https://github.com/user-attachments/assets/97642748-5ac6-49c7-ac4c-fa6129bbc35e" />
+" width="100%" alt="Intro to Programming 1 Mod">
+    <h3>💻 Intro to Programming 1 Hacking & Debugging Activities</h3>
   </a>
-  <p>Submission for the Google Chrome Built-In AI Challenge 2025.</p>
 </td>
-
-</tr> <tr> <td width="33%" align="center"> <a href="https://github.com/tanvi150/Hackathon-24-Portfolio"> <img src="YOUR_IMAGE_URL" width="100%" alt="2024 Hackathon Project"> <h3>💡 2024 Hackathon</h3> </a> <p>Hackathon project showcasing design, development and problem solving.</p> </td>
+  
 <td width="33%" align="center">
-  <a href="https://github.com/tanvi150/Data-Visualisation-App">
-    <img src="YOUR_IMAGE_URL" width="100%" alt="Data Visualisation App">
-    <h3>📊 Data Visualisation App</h3>
+  <a href="https://github.com/tanvi150/Poetry-Generator">
+    <img src="https://github.com/user-attachments/assets/4efd58ad-8224-404e-83d0-e6a6a232572c" />
+" width="100%" alt="Mother's Day Poetry Generator">
+    <h3>🌸 Mother's Day Poetry Generator</h3>
   </a>
-  <p>Interactive application for exploring and visualising data.</p>
-</td>
-
-<td width="33%" align="center">
-  <a href="https://github.com/tanvi150/Job-Market-Insights-Dashboard">
-    <img src="YOUR_IMAGE_URL" width="100%" alt="Job Market Insights Dashboard">
-    <h3>💼 Job Market Dashboard</h3>
-  </a>
-  <p>Dashboard exploring trends and insights in the job market.</p>
-</td>
-
-</tr> <tr> <td width="33%" align="center"> <a href="https://github.com/tanvi150/Image-Processing-Application"> <img src="YOUR_IMAGE_URL" width="100%" alt="Image Processing Application"> <h3>🖼️ Image Processing</h3> </a> <p>Application exploring image processing and manipulation techniques.</p> </td>
-<td width="33%" align="center">
-  <a href="https://github.com/tanvi150/Graphics-Programming">
-    <img src="YOUR_IMAGE_URL" width="100%" alt="Graphics Programming">
-    <h3>🎨 Graphics Programming</h3>
-  </a>
-  <p>Graphics programming project exploring rendering and visual techniques.</p>
 </td>
 
 <td width="33%" align="center">
-  <a href="https://github.com/tanvi150/Snooker-Table">
-    <img src="YOUR_IMAGE_URL" width="100%" alt="Snooker Table">
-    <h3>🎱 Snooker Table</h3>
+  <a href="https://github.com/tanvi150/CS-Girlies-Hackathon-Submission---July-2025">
+    <img src="https://github.com/user-attachments/assets/f2c2d875-b087-4ace-9bb9-4a5aeed4325a" />
+" width="100%" alt="CS Girlies AI vs HI Hackathon">
+    <h3>🤖 CS Girlies AI vs HI Hackathon</h3>
   </a>
-  <p>3D graphics project featuring a simulated snooker table.</p>
 </td>
 
-</tr> <tr> <td width="33%" align="center"> <a href="https://github.com/tanvi150/Crypto-Trading-Platform"> <img src="YOUR_IMAGE_URL" width="100%" alt="Crypto Trading Platform"> <h3>₿ Crypto Trading Platform</h3> </a> <p>Cryptocurrency trading platform built using C++.</p> </td>
-<td width="33%" align="center">
-  <a href="https://github.com/tanvi150/DJ-Application">
-    <img src="YOUR_IMAGE_URL" width="100%" alt="DJ Application">
-    <h3>🎧 DJ Application</h3>
-  </a>
-  <p>Desktop DJ application developed using C++.</p>
-</td>
-
+</tr> <tr> <td width="33%" align="center"> <a href="https://github.com/tanvi150/Data-Visualisation-App"> <img src="https://github.com/user-attachments/assets/3212c8ca-6a00-4de5-a30f-198876a13fc5" />
+" width="100%" alt="Data Visualisation App"> <h3>📊 Data Visualisation App</h3> </a> </td>
+  
 <td width="33%" align="center">
   <a href="https://github.com/tanvi150/NetSG">
     <img src="YOUR_IMAGE_URL" width="100%" alt="NetSG Website">
     <h3>🌐 NetSG Website</h3>
   </a>
-  <p>Website project including wireframes and interactive prototypes.</p>
-</td>
-
-</tr> <tr> <td width="33%" align="center"> <a href="https://github.com/tanvi150/CS-Girlies-Hackathon---Make-Learning-Cool-Again"> <img src="YOUR_IMAGE_URL" width="100%" alt="Make Learning Cool Again"> <h3>📚 Make Learning Cool Again</h3> </a> <p>CS Girlies Hackathon project focused on making learning more engaging.</p> </td>
-<td width="33%" align="center">
-  <a href="https://github.com/tanvi150/CS-Girlies-Hackathon-Submission---July-2025">
-    <img src="YOUR_IMAGE_URL" width="100%" alt="CS Girlies AI vs HI Hackathon">
-    <h3>🤖 AI vs HI Hackathon</h3>
-  </a>
-  <p>CS Girlies hackathon submission exploring AI and human intelligence.</p>
-</td>
-
-<td width="33%" align="center">
-  <a href="https://github.com/tanvi150/Sleuth-Cases-Practice-Assignments">
-    <img src="YOUR_IMAGE_URL" width="100%" alt="Sleuth Cases">
-    <h3>🔎 Sleuth Cases</h3>
-  </a>
-  <p>Programming practice assignments built around investigative challenges.</p>
-</td>
-
-</tr> <tr> <td width="33%" align="center"> <a href="https://github.com/tanvi150/p5.js--Hacking-and-Debugging-Activities"> <img src="YOUR_IMAGE_URL" width="100%" alt="Intro to Programming 1 Mod"> <h3>💻 Intro to Programming</h3> </a> <p>p5.js programming, debugging and hacking activities.</p> </td>
-<td width="33%" align="center">
-  <a href="https://github.com/tanvi150/Poetry-Generator">
-    <img src="YOUR_IMAGE_URL" width="100%" alt="Mother's Day Poetry Generator">
-    <h3>🌸 Poetry Generator</h3>
-  </a>
-  <p>Personal project generating poems for Mother's Day.</p>
 </td>
 
 <td width="33%" align="center">
   <a href="https://github.com/tanvi150/Leetcode">
     <img src="YOUR_IMAGE_URL" width="100%" alt="Leetcode Problems">
-    <h3>🧩 LeetCode Problems</h3>
+    <h3>🧩 Leetcode Problems</h3>
   </a>
-  <p>A collection of programming and algorithmic problem solutions.</p>
+</td>
+
+</tr> <tr> <td width="33%" align="center"> <a href="https://github.com/tanvi150/Google-Chrome-Built-In-AI-Challenge-2025"> <img src="YOUR_IMAGE_URL" width="100%" alt="Google Chrome Built-In AI Challenge 2025"> <h3>🌐 Google Chrome Built-In AI Challenge 2025</h3> </a> </td>
+<td width="33%" align="center">
+  <a href="https://github.com/tanvi150/CS-Girlies-Hackathon---Make-Learning-Cool-Again">
+    <img src="YOUR_IMAGE_URL" width="100%" alt="CS Girlies Hackathon - Make Learning Cool Again">
+    <h3>📚 CS Girlies Hackathon - Make Learning Cool Again!</h3>
+  </a>
+</td>
+
+<td width="33%" align="center">
+  <a href="https://github.com/tanvi150/Graphics-Programming">
+    <img src="YOUR_IMAGE_URL" width="100%" alt="Graphics Programming Mod">
+    <h3>🎨 Graphics Programming Mod</h3>
+  </a>
+</td>
+
+</tr> <tr> <td width="33%" align="center"> <a href="https://github.com/tanvi150/Snooker-Table"> <img src="YOUR_IMAGE_URL" width="100%" alt="Snooker Table"> <h3>🎱 Snooker Table</h3> </a> </td>
+<td width="33%" align="center">
+  <a href="https://github.com/tanvi150/Image-Processing-Application">
+    <img src="YOUR_IMAGE_URL" width="100%" alt="Image Processing Application">
+    <h3>🖼️ Image Processing Application</h3>
+  </a>
+</td>
+
+<td width="33%" align="center">
+  <a href="https://github.com/tanvi150/Job-Market-Insights-Dashboard">
+    <img src="YOUR_IMAGE_URL" width="100%" alt="Job Market Insights Dashboard">
+    <h3>💼 Job Market Insights Dashboard</h3>
+  </a>
+</td>
+
+</tr> <tr> <td width="33%" align="center"> <a href="https://github.com/tanvi150/Crypto-Trading-Platform"> <img src="YOUR_IMAGE_URL" width="100%" alt="Crypto Trading Platform Using C++"> <h3>₿ Crypto Trading Platform Using C++</h3> </a> </td>
+<td width="33%" align="center">
+  <a href="https://github.com/tanvi150/DJ-Application">
+    <img src="YOUR_IMAGE_URL" width="100%" alt="DJ Application Using C++">
+    <h3>🎧 DJ Application Using C++</h3>
+  </a>
+</td>
+
+<td width="33%" align="center">
+  <a href="https://github.com/tanvi150/CS-Girlies-Hackathon-2026">
+    <img src="YOUR_IMAGE_URL" width="100%" alt="CS Girlies Hackathon 2026 - Technology for Wellness">
+    <h3>🏆 CS Girlies Hackathon 2026 - Technology for Wellness</h3>
+  </a>
+  <p>Winner in Happiness Track</p>
 </td>
 
 </tr> </table>
