@@ -20,10 +20,9 @@ Hi, I'm Tanvi Krishna Mayi! 👋💗<br>I'm a Computer Science student who's sti
 
 ## 🗃️ Projects I Developed:
 
-### Feel free to explore my projects and learn more about my journey in computer science! 💗
-
-[![**Game Project**](https://github.com/user-attachments/assets/04924833-0a14-42d2-958c-8b6bca7c43d3)](https://github.com/tanvi150/Game-Project)
-
+<a href="https://github.com/tanvi150/Game-Project">
+  <img width="766" alt="Game Project" src="https://github.com/user-attachments/assets/04924833-0a14-42d2-958c-8b6bca7c43d3">
+</a>
 
 **2024 Hackathon Project:** https://github.com/tanvi150/Hackathon-24-Portfolio
 
