@@ -1,8 +1,6 @@
 ## Hello there! I'm Tanvi Krishna Mayi. Welcome to my GitHub Profile! 👋
 
-I'm a Computer Science student with a strong interest in technology, creativity and problem-solving. While I'm starting my journey in programming and computer science,
-I'm eager to explore **data analytics** in the future. For now, I'm focused on building a strong foundation in coding, and algorithms and understanding the core 
-principles of computer science.
+I'm a Computer Science student with a strong interest in technology, creativity and problem-solving. While I'm starting my journey in programming and computer science, I'm eager to explore **data analytics** in the future. For now, I'm focused on building a strong foundation in coding, and algorithms and understanding the core principles of computer science.
 
 ## 🚀 Skills & Technologies I'm Learning:
 - **Programming Languages**: HTML, CSS, JavaScript, Python, SQL, C++
@@ -26,7 +24,7 @@ principles of computer science.
 - Virtual Reality Course (2020)
 - Young Engineer Award **Bronze** by Singapore Polytechnic (2019)
 
-## 🗃️ Projects:
+## 🗃️ Projects I Developed:
 
 ### Feel free to explore my projects and learn more about my journey in computer science! 💗
 
@@ -65,6 +63,14 @@ principles of computer science.
 **DJ Application Using C++**: https://github.com/tanvi150/DJ-Application
 
 **CS Girlies Hackathon 2026 - Technology for Wellness**: https://github.com/tanvi150/CS-Girlies-Hackathon-2026 (Winner in Happiness Track)
+
+## 🗃️ Vibe-Coded Projects
+
+### Experimental projects built using AI-assisted development, primarily with Google AI Studio.
+
+**Financial Intelligence Dashboard - Fintrack**: https://tryfintrack.netlify.app/
+
+**The Culinary Archive - Saffron & Sage**: https://saffron-and-sage.onrender.com/
 <!---
 tanvi150/tanvi150 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
