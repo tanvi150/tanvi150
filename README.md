@@ -20,20 +20,20 @@ Hi, I'm Tanvi Krishna Mayi! 👋💗<br>I'm a Computer Science student who's sti
 
 ## 🗃️ Projects I Developed:
 
-<table> 
+<table>
 
-<tr> 
-<td width="33%" align="center"> 
-  <a href="https://github.com/tanvi150/Game-Project"> 
-    <img src="https://github.com/user-attachments/assets/1736db63-f180-4570-8bf3-9d20bb657097" width="100%" alt="Game Project"> 
-    <h3>🎮 Game Project</h3> 
-  </a> 
+<tr>
+<td width="33%" align="center">
+  <a href="https://github.com/tanvi150/Game-Project">
+    <img src="https://github.com/user-attachments/assets/1736db63-f180-4570-8bf3-9d20bb657097" width="100%" alt="Game Project">
+    <h3>🎮 Game Project</h3>
+  </a>
 </td>
-  
+
 <td width="33%" align="center">
   <a href="https://github.com/tanvi150/Hackathon-24-Portfolio">
     <img src="https://github.com/user-attachments/assets/f4cbddc6-3db6-4b6d-ba12-a3ead7419e25" width="100%" alt="2024 Hackathon Project">
-    <h3>💡2024 Hackathon Project</h3>
+    <h3>💡 2024 Hackathon Project</h3>
   </a>
 </td>
 
@@ -45,7 +45,8 @@ Hi, I'm Tanvi Krishna Mayi! 👋💗<br>I'm a Computer Science student who's sti
 </td>
 </tr>
 
-<tr> 
+
+<tr>
 <td width="33%" align="center">
   <a href="https://github.com/tanvi150/Poetry-Generator">
     <img src="https://github.com/user-attachments/assets/4efd58ad-8224-404e-83d0-e6a6a232572c" width="100%" alt="Mother's Day Poetry Generator">
@@ -60,13 +61,14 @@ Hi, I'm Tanvi Krishna Mayi! 👋💗<br>I'm a Computer Science student who's sti
   </a>
 </td>
 
-<td width="33%" align="center"> 
-  <a href="https://github.com/tanvi150/Data-Visualisation-App"> 
-    <img src="https://github.com/user-attachments/assets/3212c8ca-6a00-4de5-a30f-198876a13fc5" width="100%" alt="Data Visualisation App"> 
-    <h3>📊 Data Visualisation App</h3> 
-  </a> 
+<td width="33%" align="center">
+  <a href="https://github.com/tanvi150/Data-Visualisation-App">
+    <img src="https://github.com/user-attachments/assets/3212c8ca-6a00-4de5-a30f-198876a13fc5" width="100%" alt="Data Visualisation App">
+    <h3>📊 Data Visualisation App</h3>
+  </a>
 </td>
 </tr>
+
 
 <tr>
 <td width="33%" align="center">
@@ -83,15 +85,18 @@ Hi, I'm Tanvi Krishna Mayi! 👋💗<br>I'm a Computer Science student who's sti
   </a>
 </td>
 
-<td width="33%" align="center"> 
-  <a href="https://github.com/tanvi150/Google-Chrome-Built-In-AI-Challenge-2025"> 
-    <img src="YOUR_IMAGE_URL" width="100%" alt="Google Chrome Built-In AI Challenge 2025"> 
-    <h3>🌐 Google Chrome Built-In AI Challenge 2025</h3> </a> </td>
 <td width="33%" align="center">
+  <a href="https://github.com/tanvi150/Google-Chrome-Built-In-AI-Challenge-2025">
+    <img src="YOUR_IMAGE_URL" width="100%" alt="Google Chrome Built-In AI Challenge 2025">
+    <h3>🌐 Google Chrome Built-In AI Challenge 2025</h3>
+  </a>
+</td>
 </tr>
 
+
 <tr>
-<a href="https://github.com/tanvi150/CS-Girlies-Hackathon---Make-Learning-Cool-Again">
+<td width="33%" align="center">
+  <a href="https://github.com/tanvi150/CS-Girlies-Hackathon---Make-Learning-Cool-Again">
     <img src="YOUR_IMAGE_URL" width="100%" alt="CS Girlies Hackathon - Make Learning Cool Again">
     <h3>📚 CS Girlies Hackathon - Make Learning Cool Again!</h3>
   </a>
@@ -104,13 +109,14 @@ Hi, I'm Tanvi Krishna Mayi! 👋💗<br>I'm a Computer Science student who's sti
   </a>
 </td>
 
-<td width="33%" align="center"> 
-  <a href="https://github.com/tanvi150/Snooker-Table"> 
-    <img src="YOUR_IMAGE_URL" width="100%" alt="Snooker Table"> 
-    <h3>🎱 Snooker Table</h3> 
-  </a> 
+<td width="33%" align="center">
+  <a href="https://github.com/tanvi150/Snooker-Table">
+    <img src="YOUR_IMAGE_URL" width="100%" alt="Snooker Table">
+    <h3>🎱 Snooker Table</h3>
+  </a>
 </td>
 </tr>
+
 
 <tr>
 <td width="33%" align="center">
@@ -127,15 +133,16 @@ Hi, I'm Tanvi Krishna Mayi! 👋💗<br>I'm a Computer Science student who's sti
   </a>
 </td>
 
-<td width="33%" align="center"> 
-  <a href="https://github.com/tanvi150/Crypto-Trading-Platform"> 
-    <img src="YOUR_IMAGE_URL" width="100%" alt="Crypto Trading Platform Using C++"> 
-    <h3>₿ Crypto Trading Platform Using C++</h3> 
-  </a> 
+<td width="33%" align="center">
+  <a href="https://github.com/tanvi150/Crypto-Trading-Platform">
+    <img src="YOUR_IMAGE_URL" width="100%" alt="Crypto Trading Platform Using C++">
+    <h3>₿ Crypto Trading Platform Using C++</h3>
+  </a>
 </td>
 </tr>
 
-</tr>
+
+<tr>
 <td width="33%" align="center">
   <a href="https://github.com/tanvi150/DJ-Application">
     <img src="YOUR_IMAGE_URL" width="100%" alt="DJ Application Using C++">
@@ -147,11 +154,12 @@ Hi, I'm Tanvi Krishna Mayi! 👋💗<br>I'm a Computer Science student who's sti
   <a href="https://github.com/tanvi150/CS-Girlies-Hackathon-2026">
     <img src="YOUR_IMAGE_URL" width="100%" alt="CS Girlies Hackathon 2026 - Technology for Wellness">
     <h3>🏆 CS Girlies Hackathon 2026 - Technology for Wellness</h3>
+    <p>Winner in Happiness Track</p>
   </a>
-  <p>Winner in Happiness Track</p>
 </td>
+</tr>
 
-</tr> </table>
+</table>
 
 ## 🗃️ Vibe-Coded Projects
 
