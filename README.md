@@ -20,42 +20,37 @@ Hi, I'm Tanvi Krishna Mayi! 👋💗<br>I'm a Computer Science student who's sti
 
 ## 🗃️ Projects I Developed:
 
-<table> <tr> <td width="33%" align="center"> <a href="https://github.com/tanvi150/Game-Project"> <img src="https://github.com/user-attachments/assets/04924833-0a14-42d2-958c-8b6bca7c43d3" width="100%" alt="Game Project"> <h3>🎮 Game Project</h3> </a> </td>
+<table> <tr> <td width="33%" align="center"> <a href="https://github.com/tanvi150/Game-Project"> <img src="https://github.com/user-attachments/assets/1736db63-f180-4570-8bf3-9d20bb657097" width="100%" alt="Game Project"> <h3>🎮 Game Project</h3> </a> </td>
   
 <td width="33%" align="center">
   <a href="https://github.com/tanvi150/Hackathon-24-Portfolio">
-    <img src="https://github.com/user-attachments/assets/f4cbddc6-3db6-4b6d-ba12-a3ead7419e25" />
-" width="100%" alt="2024 Hackathon Project">
+    <img src="https://github.com/user-attachments/assets/f4cbddc6-3db6-4b6d-ba12-a3ead7419e25" width="100%" alt="2024 Hackathon Project">
     <h3>💡2024 Hackathon Project</h3>
   </a>
 </td>
 
 <td width="33%" align="center">
   <a href="https://github.com/tanvi150/p5.js--Hacking-and-Debugging-Activities">
-    <img src="https://github.com/user-attachments/assets/97642748-5ac6-49c7-ac4c-fa6129bbc35e" />
-" width="100%" alt="Intro to Programming 1 Mod">
+    <img src="https://github.com/user-attachments/assets/97642748-5ac6-49c7-ac4c-fa6129bbc35e" width="100%" alt="Intro to Programming 1 Mod">
     <h3>💻 Intro to Programming 1 Hacking & Debugging Activities</h3>
   </a>
 </td>
   
 <td width="33%" align="center">
   <a href="https://github.com/tanvi150/Poetry-Generator">
-    <img src="https://github.com/user-attachments/assets/4efd58ad-8224-404e-83d0-e6a6a232572c" />
-" width="100%" alt="Mother's Day Poetry Generator">
+    <img src="https://github.com/user-attachments/assets/4efd58ad-8224-404e-83d0-e6a6a232572c" width="100%" alt="Mother's Day Poetry Generator">
     <h3>🌸 Mother's Day Poetry Generator</h3>
   </a>
 </td>
 
 <td width="33%" align="center">
   <a href="https://github.com/tanvi150/CS-Girlies-Hackathon-Submission---July-2025">
-    <img src="https://github.com/user-attachments/assets/f2c2d875-b087-4ace-9bb9-4a5aeed4325a" />
-" width="100%" alt="CS Girlies AI vs HI Hackathon">
+    <img src="https://github.com/user-attachments/assets/f2c2d875-b087-4ace-9bb9-4a5aeed4325a" width="100%" alt="CS Girlies AI vs HI Hackathon">
     <h3>🤖 CS Girlies AI vs HI Hackathon</h3>
   </a>
 </td>
 
-</tr> <tr> <td width="33%" align="center"> <a href="https://github.com/tanvi150/Data-Visualisation-App"> <img src="https://github.com/user-attachments/assets/3212c8ca-6a00-4de5-a30f-198876a13fc5" />
-" width="100%" alt="Data Visualisation App"> <h3>📊 Data Visualisation App</h3> </a> </td>
+</tr> <tr> <td width="33%" align="center"> <a href="https://github.com/tanvi150/Data-Visualisation-App"> <img src="https://github.com/user-attachments/assets/3212c8ca-6a00-4de5-a30f-198876a13fc5" width="100%" alt="Data Visualisation App"> <h3>📊 Data Visualisation App</h3> </a> </td>
   
 <td width="33%" align="center">
   <a href="https://github.com/tanvi150/NetSG">
