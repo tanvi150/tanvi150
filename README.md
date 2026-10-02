@@ -241,7 +241,6 @@ CS Girlies Technology for Wellness Annual Hackathon 2026 project exploring techn
 `AI` · `Hackathon` · `Wellness`
 
 <a href="https://github.com/tanvi150/CS-Girlies-Hackathon-2026">View repository →</a>
-</tr>
 
 <td width="50%" valign="top">
 
@@ -252,6 +251,7 @@ A dynamic event-organisation website built with Node.js, EJS and SQLite.
 `Node.js` · `Dynamic Web Development` · `Databases`
 
 </td>
+</tr>
 </table>
 
 ## 🗃️ Vibe-Coded Projects
