@@ -241,12 +241,6 @@ CS Girlies Hackathon 2026 project exploring technology for wellness.
 `AI` · `Hackathon` · `Wellness`
 
 <a href="https://github.com/tanvi150/CS-Girlies-Hackathon-2026">View repository →</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-</td>
 </tr>
 </table>
 
@@ -254,9 +248,33 @@ CS Girlies Hackathon 2026 project exploring technology for wellness.
 
 ### Experimental projects built using AI-assisted development, primarily with Google AI Studio.
 
-**Financial Intelligence Dashboard - Fintrack**: https://tryfintrack.netlify.app/
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**The Culinary Archive - Saffron & Sage**: https://saffron-and-sage.onrender.com/
+### 01 — FinTrack
+
+Financial intelligence dashboard exploring ways to make financial information more accessible and actionable.
+
+`AI-Assisted Development` · `Finance` · `Dashboard`
+
+<a href="https://tryfintrack.netlify.app/">View live project →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 02 — Saffron & Sage
+
+A digital culinary archive exploring food, recipes, and storytelling through an interactive web experience.
+
+`AI-Assisted Development` · `Web` · `Food & Culture`
+
+<a href="https://saffron-and-sage.onrender.com/">View live project →</a>
+
+</td>
+</tr>
+</table>
 <!---
 tanvi150/tanvi150 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
