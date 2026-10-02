@@ -25,15 +25,15 @@ Hi, I'm Tanvi Krishna Mayi! 👋💗<br>I'm a Computer Science student who's sti
 <tr>
 <td width="33%" align="center">
   <a href="https://github.com/tanvi150/Game-Project">
-    <img src="https://github.com/user-attachments/assets/1736db63-f180-4570-8bf3-9d20bb657097" width="100%" alt="Game Project">
-    <h3>🎮 Game Project</h3>
+    <img src="https://github.com/user-attachments/assets/99d29baf-87a6-4d95-a8be-8c36ad5a767b" width="100%" alt="Treasure Trails"/>
+    <h3>Game Project</h3>
   </a>
 </td>
 
 <td width="33%" align="center">
   <a href="https://github.com/tanvi150/Hackathon-24-Portfolio">
-    <img src="https://github.com/user-attachments/assets/f4cbddc6-3db6-4b6d-ba12-a3ead7419e25" width="100%" alt="2024 Hackathon Project">
-    <h3>💡 2024 Hackathon Project</h3>
+    <img src="https://github.com/user-attachments/assets/7811dbf4-c451-4317-8709-85d430ad7ee5" width="100%" alt="Jim Goes to the Gym">
+    <h3>2024 Hackathon Project</h3>
   </a>
 </td>
 
