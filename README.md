@@ -25,22 +25,22 @@ Hi, I'm Tanvi Krishna Mayi! 👋💗<br>I'm a Computer Science student who's sti
 <tr>
 <td width="33%" align="center">
   <a href="https://github.com/tanvi150/Game-Project">
-    <img src="https://github.com/user-attachments/assets/99d29baf-87a6-4d95-a8be-8c36ad5a767b" width="100%" alt="Treasure Trails"/>
+    <img src="https://github.com/user-attachments/assets/7811dbf4-c451-4317-8709-85d430ad7ee5" width="100%" alt="Treasure Trails">
     <h3>Game Project</h3>
   </a>
 </td>
 
 <td width="33%" align="center">
   <a href="https://github.com/tanvi150/Hackathon-24-Portfolio">
-    <img src="https://github.com/user-attachments/assets/7811dbf4-c451-4317-8709-85d430ad7ee5" width="100%" alt="Jim Goes to the Gym">
+    <img src="https://github.com/user-attachments/assets/eb5cb3a1-d35e-4710-b448-4704a3baca7e" width="100%" alt="Jim Goes to the Gym">
     <h3>2024 Hackathon Project</h3>
   </a>
 </td>
 
 <td width="33%" align="center">
   <a href="https://github.com/tanvi150/p5.js--Hacking-and-Debugging-Activities">
-    <img src="https://github.com/user-attachments/assets/97642748-5ac6-49c7-ac4c-fa6129bbc35e" width="100%" alt="Intro to Programming 1 Mod">
-    <h3>💻 Intro to Programming 1 Hacking & Debugging Activities</h3>
+    <img src="https://github.com/user-attachments/assets/ebdfaf09-9eaa-40c9-b095-e8dc6c4f24a7" width="100%" alt="Intro to Programming 1 Module Activities">
+    <h3>Intro to Programming 1 Hacking & Debugging Activities</h3>
   </a>
 </td>
 </tr>
@@ -49,22 +49,22 @@ Hi, I'm Tanvi Krishna Mayi! 👋💗<br>I'm a Computer Science student who's sti
 <tr>
 <td width="33%" align="center">
   <a href="https://github.com/tanvi150/Poetry-Generator">
-    <img src="https://github.com/user-attachments/assets/4efd58ad-8224-404e-83d0-e6a6a232572c" width="100%" alt="Mother's Day Poetry Generator">
-    <h3>🌸 Mother's Day Poetry Generator</h3>
+    <img src="https://github.com/user-attachments/assets/0333c3d3-0599-4cd1-a358-f3c4bbb581ed" width="100%" alt="Mother's Day Poetry Generator">
+    <h3>Mother's Day Poetry Generator</h3>
   </a>
 </td>
 
 <td width="33%" align="center">
   <a href="https://github.com/tanvi150/CS-Girlies-Hackathon-Submission---July-2025">
-    <img src="https://github.com/user-attachments/assets/f2c2d875-b087-4ace-9bb9-4a5aeed4325a" width="100%" alt="CS Girlies AI vs HI Hackathon">
-    <h3>🤖 CS Girlies AI vs HI Hackathon</h3>
+    <img src="https://github.com/user-attachments/assets/f99f25b1-78c4-454d-8dbe-a22d35757728" width="100%" alt="Chronovault - The Time Capsule">
+    <h3>CS Girlies AI vs HI Hackathon</h3>
   </a>
 </td>
 
 <td width="33%" align="center">
   <a href="https://github.com/tanvi150/Data-Visualisation-App">
-    <img src="https://github.com/user-attachments/assets/3212c8ca-6a00-4de5-a30f-198876a13fc5" width="100%" alt="Data Visualisation App">
-    <h3>📊 Data Visualisation App</h3>
+    <img src="https://github.com/user-attachments/assets/f663089a-bb5b-4472-adaa-6d2e3de804f3" width="100%" alt="Data Visualisation App">
+    <h3>Data Visualisation App</h3>
   </a>
 </td>
 </tr>
@@ -73,22 +73,22 @@ Hi, I'm Tanvi Krishna Mayi! 👋💗<br>I'm a Computer Science student who's sti
 <tr>
 <td width="33%" align="center">
   <a href="https://github.com/tanvi150/NetSG">
-    <img src="YOUR_IMAGE_URL" width="100%" alt="NetSG Website">
-    <h3>🌐 NetSG Website</h3>
+    <img src="https://github.com/user-attachments/assets/089f2388-bf2f-450f-a292-e58a5ba22df7" width="100%" alt="NetSG Website">
+    <h3>NetSG Website</h3>
   </a>
 </td>
 
 <td width="33%" align="center">
   <a href="https://github.com/tanvi150/Leetcode">
-    <img src="YOUR_IMAGE_URL" width="100%" alt="Leetcode Problems">
-    <h3>🧩 Leetcode Problems</h3>
+    <img src="https://github.com/user-attachments/assets/5066272f-6960-4656-850b-fe47c3e69cac" width="100%" alt="Leetcode Problems">
+    <h3>Leetcode Problems</h3>
   </a>
 </td>
 
 <td width="33%" align="center">
   <a href="https://github.com/tanvi150/Google-Chrome-Built-In-AI-Challenge-2025">
-    <img src="YOUR_IMAGE_URL" width="100%" alt="Google Chrome Built-In AI Challenge 2025">
-    <h3>🌐 Google Chrome Built-In AI Challenge 2025</h3>
+    <img src="https://github.com/user-attachments/assets/08641124-7b9b-4ced-8511-f9a5b4339482" width="100%" alt="Google Chrome Built-In AI Challenge 2025">
+    <h3>Google Chrome Built-In AI Challenge 2025</h3>
   </a>
 </td>
 </tr>
@@ -97,15 +97,15 @@ Hi, I'm Tanvi Krishna Mayi! 👋💗<br>I'm a Computer Science student who's sti
 <tr>
 <td width="33%" align="center">
   <a href="https://github.com/tanvi150/CS-Girlies-Hackathon---Make-Learning-Cool-Again">
-    <img src="YOUR_IMAGE_URL" width="100%" alt="CS Girlies Hackathon - Make Learning Cool Again">
-    <h3>📚 CS Girlies Hackathon - Make Learning Cool Again!</h3>
+    <img src="https://github.com/user-attachments/assets/b8dc85b9-513b-4fab-906c-dd06f356844e" width="100%" alt="Jigsaw">
+    <h3>CS Girlies Hackathon - Make Learning Cool Again!</h3>
   </a>
 </td>
 
 <td width="33%" align="center">
   <a href="https://github.com/tanvi150/Graphics-Programming">
-    <img src="YOUR_IMAGE_URL" width="100%" alt="Graphics Programming Mod">
-    <h3>🎨 Graphics Programming Mod</h3>
+    <img src="https://github.com/user-attachments/assets/47dae300-5c4b-4b9d-935a-730a26fc9357" width="100%" alt="Graphics Programming Mod">
+    <h3>Graphics Programming Mod</h3>
   </a>
 </td>
 
