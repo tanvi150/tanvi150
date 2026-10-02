@@ -266,7 +266,7 @@ A dynamic event-organisation website built with Node.js, EJS and SQLite.
 
 Financial intelligence dashboard exploring ways to make financial information more accessible and actionable.
 
-`AI-Assisted Development` · `Finance` · `Dashboard`
+`AI-Assisted Development` · `Finance`
 
 <a href="https://tryfintrack.netlify.app/">View live project →</a>
 
@@ -278,7 +278,7 @@ Financial intelligence dashboard exploring ways to make financial information mo
 
 A digital culinary archive exploring food, recipes, and storytelling through an interactive web experience.
 
-`AI-Assisted Development` · `Web` · `Food & Culture`
+`AI-Assisted Development` · `Food & Culture`
 
 <a href="https://saffron-and-sage.onrender.com/">View live project →</a>
 
