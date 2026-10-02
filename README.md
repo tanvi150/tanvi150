@@ -97,7 +97,7 @@ Hi, I'm Tanvi Krishna Mayi! 👋💗<br>I'm a Computer Science student who's sti
 <tr>
 <td width="33%" align="center">
   <a href="https://github.com/tanvi150/CS-Girlies-Hackathon---Make-Learning-Cool-Again">
-    <img src="https://github.com/user-attachments/assets/b8dc85b9-513b-4fab-906c-dd06f356844e" width="100%" alt="Jigsaw">
+    <img src="https://github.com/user-attachments/assets/2e2826bf-37d5-4221-a4bb-1dd57b07b182" width="100%" alt="Jigsaw">
   </a>
   <h3>CS Girlies Hackathon - Make Learning Cool Again!</h3>
 </td>
