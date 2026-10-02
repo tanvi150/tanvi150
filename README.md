@@ -21,144 +21,233 @@ Hi, I'm Tanvi Krishna Mayi! 👋💗<br>I'm a Computer Science student who's sti
 ## 🗃️ Projects I Developed:
 
 <table>
-
 <tr>
-<td width="33%" align="center">
-  <a href="https://github.com/tanvi150/Game-Project">
-    <img src="https://github.com/user-attachments/assets/7811dbf4-c451-4317-8709-85d430ad7ee5" width="100%" alt="Treasure Trails">
-  </a>
-  <h3>Game Project</h3>
+<td width="50%" valign="top">
+
+### 01 — Treasure Trails
+
+An interactive 2D platformer game built with p5.js.
+
+`Creative Coding` · `JavaScript`
+
+<a href="https://github.com/tanvi150/Game-Project">View repository →</a>
+
 </td>
 
-<td width="33%" align="center">
-  <a href="https://github.com/tanvi150/Hackathon-24-Portfolio">
-    <img src="https://github.com/user-attachments/assets/eb5cb3a1-d35e-4710-b448-4704a3baca7e" width="100%" alt="Jim Goes to the Gym">
-  </a>
-  <h3>2024 Hackathon Project</h3>
-</td>
+<td width="50%" valign="top">
 
-<td width="33%" align="center">
-  <a href="https://github.com/tanvi150/p5.js--Hacking-and-Debugging-Activities">
-    <img src="https://github.com/user-attachments/assets/ebdfaf09-9eaa-40c9-b095-e8dc6c4f24a7" width="100%" alt="Intro to Programming 1 Module Activities">
-  </a>
-  <h3>Intro to Programming 1 Hacking & Debugging Activities</h3>
+### 02 — 2024 Hackathon Project
+
+Portfolio project created for a hackathon.
+
+`2D Game Development` · `Hackathon`
+
+<a href="https://github.com/tanvi150/Hackathon-24-Portfolio">View repository →</a>
+
 </td>
 </tr>
 
-
 <tr>
-<td width="33%" align="center">
-  <a href="https://github.com/tanvi150/Poetry-Generator">
-    <img src="https://github.com/user-attachments/assets/0333c3d3-0599-4cd1-a358-f3c4bbb581ed" width="100%" alt="Mother's Day Poetry Generator">
-  </a>
-  <h3>Mother's Day Poetry Generator</h3>
+<td width="50%" valign="top">
+
+### 03 — Hacking & Debugging Activities
+
+A collection of programming activities focused on debugging and problem solving.
+
+`p5.js` · `Programming`
+
+<a href="https://github.com/tanvi150/p5.js--Hacking-and-Debugging-Activities">View repository →</a>
+
 </td>
 
-<td width="33%" align="center">
-  <a href="https://github.com/tanvi150/CS-Girlies-Hackathon-Submission---July-2025">
-    <img src="https://github.com/user-attachments/assets/f99f25b1-78c4-454d-8dbe-a22d35757728" width="100%" alt="Chronovault - The Time Capsule">
-  </a>
-  <h3>CS Girlies AI vs HI Hackathon</h3>
-</td>
+<td width="50%" valign="top">
 
-<td width="33%" align="center">
-  <a href="https://github.com/tanvi150/Data-Visualisation-App">
-    <img src="https://github.com/user-attachments/assets/f663089a-bb5b-4472-adaa-6d2e3de804f3" width="100%" alt="Data Visualisation App">
-  </a>
-  <h3>Data Visualisation App</h3>
+### 04 — Mother's Day Poetry Generator
+
+An interactive poetry generator built for creative expression.
+
+`Creative Coding` · `JavaScript`
+
+<a href="https://github.com/tanvi150/Poetry-Generator">View repository →</a>
+
 </td>
 </tr>
 
-
 <tr>
-<td width="33%" align="center">
-  <a href="https://github.com/tanvi150/NetSG">
-    <img src="https://github.com/user-attachments/assets/089f2388-bf2f-450f-a292-e58a5ba22df7" width="100%" alt="NetSG Website">
-  </a>
-  <h3>NetSG Website</h3>
+<td width="50%" valign="top">
+
+### 05 — Chronovault
+
+AI vs HI hackathon project exploring the concept of digital time capsules.
+
+`AI` · `Hackathon`
+
+<a href="https://github.com/tanvi150/CS-Girlies-Hackathon-Submission---July-2025">View repository →</a>
+
 </td>
 
-<td width="33%" align="center">
-  <a href="https://github.com/tanvi150/Leetcode">
-    <img src="https://github.com/user-attachments/assets/5066272f-6960-4656-850b-fe47c3e69cac" width="100%" alt="Leetcode Problems">
-  </a>
-  <h3>Leetcode Problems</h3>
-</td>
+<td width="50%" valign="top">
 
-<td width="33%" align="center">
-  <a href="https://github.com/tanvi150/Google-Chrome-Built-In-AI-Challenge-2025">
-    <img src="https://github.com/user-attachments/assets/08641124-7b9b-4ced-8511-f9a5b4339482" width="100%" alt="Google Chrome Built-In AI Challenge 2025">
-  </a>
-  <h3>Google Chrome Built-In AI Challenge 2025</h3>
+### 06 — Data Visualisation App
+
+Interactive application for exploring and presenting data visually.
+
+`p5.js` · `Data Visualisation`
+
+<a href="https://github.com/tanvi150/Data-Visualisation-App">View repository →</a>
+
 </td>
 </tr>
 
-
 <tr>
-<td width="33%" align="center">
-  <a href="https://github.com/tanvi150/CS-Girlies-Hackathon---Make-Learning-Cool-Again">
-    <img src="https://github.com/user-attachments/assets/2e2826bf-37d5-4221-a4bb-1dd57b07b182" width="100%" alt="Jigsaw">
-  </a>
-  <h3>CS Girlies Hackathon - Make Learning Cool Again!</h3>
+<td width="50%" valign="top">
+
+### 07 — NetSG Website
+
+Website development project.
+
+`Web Development` · `Full Stack`
+
+<a href="https://github.com/tanvi150/NetSG">View repository →</a>
+
 </td>
 
-<td width="33%" align="center">
-  <a href="https://github.com/tanvi150/Graphics-Programming">
-    <img src="https://github.com/user-attachments/assets/47dae300-5c4b-4b9d-935a-730a26fc9357" width="100%" alt="Graphics Programming Mod">
-  </a>
-  <h3>Graphics Programming Mod</h3>
-</td>
+<td width="50%" valign="top">
 
-<td width="33%" align="center">
-  <a href="https://github.com/tanvi150/Snooker-Table">
-    <img src="YOUR_IMAGE_URL" width="100%" alt="Snooker Table">
-  </a>
-  <h3>Snooker Table</h3>
+### 08 — LeetCode
+
+Programming solutions and algorithm practice.
+
+`Algorithms` · `Problem Solving`
+
+<a href="https://github.com/tanvi150/Leetcode">View repository →</a>
+
 </td>
 </tr>
 
-
 <tr>
-<td width="33%" align="center">
-  <a href="https://github.com/tanvi150/Image-Processing-Application">
-    <img src="YOUR_IMAGE_URL" width="100%" alt="Image Processing Application">
-  </a>
-  <h3>Image Processing Application</h3>
+<td width="50%" valign="top">
+
+### 09 — Chrome Built-In AI Challenge
+
+Project developed for the Google Chrome Built-In AI Challenge 2025.
+
+`AI` · `Google Chrome Extension Development`
+
+<a href="https://github.com/tanvi150/Google-Chrome-Built-In-AI-Challenge-2025">View repository →</a>
+
 </td>
 
-<td width="33%" align="center">
-  <a href="https://github.com/tanvi150/Job-Market-Insights-Dashboard">
-    <img src="YOUR_IMAGE_URL" width="100%" alt="Job Market Insights Dashboard">
-  </a>
-  <h3>Job Market Insights Dashboard</h3>
-</td>
+<td width="50%" valign="top">
 
-<td width="33%" align="center">
-  <a href="https://github.com/tanvi150/Crypto-Trading-Platform">
-    <img src="YOUR_IMAGE_URL" width="100%" alt="Crypto Trading Platform Using C++">
-  </a>
-  <h3>Crypto Trading Platform Using C++</h3>
+### 10 — Jigsaw
+
+Hackathon project focused on gamifying the learning experience.
+
+`Education` · `Hackathon`
+
+<a href="https://github.com/tanvi150/CS-Girlies-Hackathon---Make-Learning-Cool-Again">View repository →</a>
+
 </td>
 </tr>
 
-
 <tr>
-<td width="33%" align="center">
-  <a href="https://github.com/tanvi150/DJ-Application">
-    <img src="YOUR_IMAGE_URL" width="100%" alt="DJ Application Using C++">
-  </a>
-  <h3>DJ Application Using C++</h3>
+<td width="50%" valign="top">
+
+### 11 — Graphics Programming
+
+Graphics programming module exploring computer graphics concepts.
+
+`p5.js` · `Computer Graphics`
+
+<a href="https://github.com/tanvi150/Graphics-Programming">View repository →</a>
+
 </td>
 
-<td width="33%" align="center">
-  <a href="https://github.com/tanvi150/CS-Girlies-Hackathon-2026">
-    <img src="YOUR_IMAGE_URL" width="100%" alt="CS Girlies Hackathon 2026 - Technology for Wellness">
-  </a>
-  <h3>🏆 CS Girlies Hackathon 2026 - Technology for Wellness</h3>
-    <p>Winner in Happiness Track</p>
+<td width="50%" valign="top">
+
+### 12 — Snooker Table
+
+3D graphics project recreating a snooker table.
+
+`matter.js & ` · `Graphics Programming`
+
+<a href="https://github.com/tanvi150/Snooker-Table">View repository →</a>
+
 </td>
 </tr>
 
+<tr>
+<td width="50%" valign="top">
+
+### 13 — Image Processing Application
+
+Application exploring image processing techniques.
+
+`p5.js` · `Computer Vision`
+
+<a href="https://github.com/tanvi150/Image-Processing-Application">View repository →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 14 — Job Market Insights Dashboard
+
+Dashboard for exploring and visualising job market data.
+
+`Data Analysis` · `Dashboard Visualisations`
+
+<a href="https://github.com/tanvi150/Job-Market-Insights-Dashboard">View repository →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 15 — Crypto Trading Platform
+
+Trading platform implemented using C++.
+
+`C++` · `Software Development`
+
+<a href="https://github.com/tanvi150/Crypto-Trading-Platform">View repository →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 16 — DJ Application
+
+Music-focused application developed using C++.
+
+`C++` · `Application Development`
+
+<a href="https://github.com/tanvi150/DJ-Application">View repository →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 17 — Technology for Wellness
+
+🏆 **Winner — Happiness Track**
+
+CS Girlies Hackathon 2026 project exploring technology for wellness.
+
+`AI` · `Hackathon` · `Wellness`
+
+<a href="https://github.com/tanvi150/CS-Girlies-Hackathon-2026">View repository →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 
 ## 🗃️ Vibe-Coded Projects
