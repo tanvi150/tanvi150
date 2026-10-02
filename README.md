@@ -78,7 +78,7 @@ An interactive poetry generator built for creative expression.
 
 ### 05 — Chronovault
 
-AI vs HI hackathon project exploring the concept of digital time capsules.
+CS Girlies AI vs HI Annual Hackathon 2025 project exploring the concept of digital time capsules.
 
 `AI` · `Hackathon`
 
@@ -142,7 +142,7 @@ Project developed for the Google Chrome Built-In AI Challenge 2025.
 
 ### 10 — Jigsaw
 
-Hackathon project focused on gamifying the learning experience.
+CS Girlies Winter Hackathon 2025 project focused on gamifying the learning experience.
 
 `Education` · `Hackathon`
 
@@ -232,16 +232,26 @@ Music-focused application developed using C++.
 <tr>
 <td width="50%" valign="top">
 
-### 17 — Technology for Wellness
+### 17 — Luckily
 
 🏆 **Winner — Happiness Track**
 
-CS Girlies Hackathon 2026 project exploring technology for wellness.
+CS Girlies Technology for Wellness Annual Hackathon 2026 project exploring technology for wellness.
 
 `AI` · `Hackathon` · `Wellness`
 
 <a href="https://github.com/tanvi150/CS-Girlies-Hackathon-2026">View repository →</a>
 </tr>
+
+<td width="50%" valign="top">
+
+### 18 — Experia
+
+A dynamic event-organisation website built with Node.js, EJS and SQLite.
+
+`Node.js` · `Dynamic Web Development` · `Databases`
+
+</td>
 </table>
 
 ## 🗃️ Vibe-Coded Projects
